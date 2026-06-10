@@ -1,0 +1,7 @@
+pickup_point,status,Total_Count
+Airport,"Trip Completed",1327
+City,"Trip Completed",1504
+City,Cancelled,1066
+Airport,Cancelled,198
+City,"No Cars Available",937
+Airport,"No Cars Available",1713
